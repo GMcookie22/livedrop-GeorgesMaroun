@@ -62,4 +62,4 @@ ________________
 
 
 So in the end the system is complex cause it contains many services, cache & events. It handles spikes smoothly. It uses database and cache (DB is truth, cache is for speed).
-It is a fast, scalable and sfe system that can handle normal traffic and millions of users during big live drops.
+It is a fast, scalable and safe system that can handle normal traffic and millions of users during big live drops.

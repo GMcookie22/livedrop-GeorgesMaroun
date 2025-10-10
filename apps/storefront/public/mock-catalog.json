@@ -1,0 +1,162 @@
+[
+  {
+    "id": "P1001",
+    "title": "Wireless Mouse",
+    "price": 19.99,
+    "image": "/images/mouse.jpg",
+    "tags": ["electronics", "accessories"],
+    "stockQty": 34
+  },
+  {
+    "id": "P1002",
+    "title": "Mechanical Keyboard",
+    "price": 59.99,
+    "image": "/images/keyboard.jpg",
+    "tags": ["electronics", "accessories"],
+    "stockQty": 21
+  },
+  {
+    "id": "P1003",
+    "title": "HD Monitor 24\"",
+    "price": 129.99,
+    "image": "/images/monitor.jpg",
+    "tags": ["electronics", "display"],
+    "stockQty": 15
+  },
+  {
+    "id": "P1004",
+    "title": "USB-C Hub",
+    "price": 29.99,
+    "image": "/images/hub.jpg",
+    "tags": ["electronics", "accessories"],
+    "stockQty": 50
+  },
+  {
+    "id": "P1005",
+    "title": "Bluetooth Speaker",
+    "price": 39.99,
+    "image": "/images/speaker.jpg",
+    "tags": ["electronics", "audio"],
+    "stockQty": 18
+  },
+  {
+    "id": "P1006",
+    "title": "Noise Cancelling Headphones",
+    "price": 89.99,
+    "image": "/images/headphones.jpg",
+    "tags": ["electronics", "audio"],
+    "stockQty": 12
+  },
+  {
+    "id": "P1007",
+    "title": "Smartphone Stand",
+    "price": 12.99,
+    "image": "/images/stand.jpg",
+    "tags": ["accessories", "mobile"],
+    "stockQty": 60
+  },
+  {
+    "id": "P1008",
+    "title": "Portable SSD 1TB",
+    "price": 99.99,
+    "image": "/images/ssd.jpg",
+    "tags": ["electronics", "storage"],
+    "stockQty": 8
+  },
+  {
+    "id": "P1009",
+    "title": "Webcam 1080p",
+    "price": 49.99,
+    "image": "/images/webcam.jpg",
+    "tags": ["electronics", "video"],
+    "stockQty": 25
+  },
+  {
+    "id": "P1010",
+    "title": "Laptop Sleeve 15\"",
+    "price": 17.99,
+    "image": "/images/sleeve.jpg",
+    "tags": ["accessories", "laptop"],
+    "stockQty": 40
+  },
+  {
+    "id": "P1011",
+    "title": "Ergonomic Office Chair",
+    "price": 199.99,
+    "image": "/images/chair.jpg",
+    "tags": ["furniture", "office"],
+    "stockQty": 5
+  },
+  {
+    "id": "P1012",
+    "title": "Desk Lamp LED",
+    "price": 24.99,
+    "image": "/images/lamp.jpg",
+    "tags": ["furniture", "lighting"],
+    "stockQty": 30
+  },
+  {
+    "id": "P1013",
+    "title": "Wireless Charger",
+    "price": 22.99,
+    "image": "/images/charger.jpg",
+    "tags": ["electronics", "mobile"],
+    "stockQty": 44
+  },
+  {
+    "id": "P1014",
+    "title": "Fitness Tracker",
+    "price": 49.99,
+    "image": "/images/tracker.jpg",
+    "tags": ["electronics", "wearable"],
+    "stockQty": 27
+  },
+  {
+    "id": "P1015",
+    "title": "Smartwatch",
+    "price": 149.99,
+    "image": "/images/smartwatch.jpg",
+    "tags": ["electronics", "wearable"],
+    "stockQty": 10
+  },
+  {
+    "id": "P1016",
+    "title": "Tablet 10\"",
+    "price": 199.99,
+    "image": "/images/tablet.jpg",
+    "tags": ["electronics", "mobile"],
+    "stockQty": 14
+  },
+  {
+    "id": "P1017",
+    "title": "Action Camera",
+    "price": 129.99,
+    "image": "/images/camera.jpg",
+    "tags": ["electronics", "video"],
+    "stockQty": 9
+  },
+  {
+    "id": "P1018",
+    "title": "Gaming Mouse Pad",
+    "price": 14.99,
+    "image": "/images/mousepad.jpg",
+    "tags": ["accessories", "gaming"],
+    "stockQty": 55
+  },
+  {
+    "id": "P1019",
+    "title": "4K Streaming Stick",
+    "price": 39.99,
+    "image": "/images/streaming.jpg",
+    "tags": ["electronics", "video"],
+    "stockQty": 22
+  },
+  {
+    "id": "P1020",
+    "title": "Laptop Stand Adjustable",
+    "price": 34.99,
+    "image": "/images/laptopstand.jpg",
+    "tags": ["accessories", "laptop"],
+    "stockQty": 33
+  }
+]
